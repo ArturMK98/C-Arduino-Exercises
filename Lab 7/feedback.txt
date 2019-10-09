@@ -1,0 +1,1 @@
+func signatures use array[], updateElement just incremented current val, print uses array subscripting

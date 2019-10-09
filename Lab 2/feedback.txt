@@ -1,0 +1,1 @@
+part 3 not demo'd., not a cascaded-if (needs else-if), logic for 0,1,8,9 is not quite right, lots of repeated code including delay code.

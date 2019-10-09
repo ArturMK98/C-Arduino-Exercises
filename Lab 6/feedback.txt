@@ -1,0 +1,1 @@
+part2: bit confused. bad func declaration (use * not & in pointer param declarations), global variables (e.g. MIN_VAL), also bad names if they are variables, no check for NULL values, value returned from sampleAnalogIn should be passed to addToFifo.

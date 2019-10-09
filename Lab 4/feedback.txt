@@ -1,0 +1,1 @@
+setupBarLeds was fine but then had 3 inflexible barLeds functions 

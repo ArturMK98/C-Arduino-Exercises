@@ -1,0 +1,1 @@
+good use of functions. BitIndex wraparound is overcomplicated - should just increment/decrement and check whether you need to wrap immediately this.
