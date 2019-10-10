@@ -1,5 +1,7 @@
-# C-Arduino-Exercises (Update README)
-My work from EE108R (Computing for Engineers)
+# C Arduino Exercises (Update README)
+This repository contains some of my work from EE108R (Computing for Engineers). Each of the labs, assignments and lab tests were completed using an Arduino UNO daughterboard and the Arduino IDE. All the work was done by me and sometimes with the help of demonstrators in the lab sessions. I also used online resources to help me with some of the exercises, mainly [stackoverflow.com](stackoverflow.com) and [tutorialspoint.com](https://www.tutorialspoint.com/cprogramming/index.htm).
+
+Below is a list of all the Assignments, Labs and Lab Tests:
 
 ## Assignment 1 (Grade UNKNOWN)
 - [A1_BitsToBarLeds](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%201/A1_BitsToBarLeds/A1_BitsToBarLeds.ino): Each time the loop function runs the program executes the following steps:
