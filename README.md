@@ -38,7 +38,7 @@ My work from EE108R (Computing for Engineers)
     - Otherwise (no elements in use), print a message letting the user know that there is no elements in use.
      
 ## Assignment 4 (Grade UNKNOWN)
-
+- [A4_AverageDirection](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%204/A4_AverageDirection/A4_AverageDirection.ino): This program reads direction keys (J, K, L, and I), calculate the resultant direction of the most recent 8 keys, and match that to a one of a limited set of compass directions. These are 
 
 ## Lab 1 (Grade 90%)
 - [Lab1_3_BlinkDaughterboard](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%201/Lab1_3_BlinkDaughterboard/Lab1_3_BlinkDaughterboard.ino): A modified blink program which blinks a daughterboardLED instead of an Arduino motherboard LED.
