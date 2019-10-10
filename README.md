@@ -29,11 +29,10 @@ My work from EE108R (Computing for Engineers)
 
     When SW1 is clicked:
     - Check if there are unused slots in the buffer
-    - If there is space, generate a random number (any integer between 0 and +99 inclusive) and add it to               the end of the buffer. Then print the new contents of the buffer. 
+    - If there is space, generate a random number (any integer between 0 and +99 inclusive) and add it to the end of the buffer. Then print the new contents of the buffer. 
     - Otherwise (no space in the buffer), prints a message letting the user know that there is no space.
     
-    Whenever SW2 is clicked:
-    
+    Whenever SW2 is clicked:    
     -  Check if there are any used slots in the buffer.
     -  If there are elements in use, remove the last element (the one that had been most recently added) and print its value. Then print the new contents of the buffer.
     - Otherwise (no elements in use), print a message letting the user know that there is no elements in use.
