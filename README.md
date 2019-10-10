@@ -1,7 +1,7 @@
 # C-Arduino-Exercises (Update README)
 My work from EE108R (Computing for Engineers)
 
-## Assignment 1
+## Assignment 1 (Grade UNKNOWN)
 - [A1_BitsToBarLeds](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%201/A1_BitsToBarLeds/A1_BitsToBarLeds.ino): Each time the loop function runs execute the following steps:
     - Light Bar LEDs 1 and 2 only for 300ms and print the binary ledStates value that corresponds to these LEDs 
     - Light Bar LEDs 3, 5, and 7 only for 600ms and print the binary ledStates value that corresponds to these LEDs 
