@@ -34,9 +34,9 @@ My work from EE108R (Computing for Engineers)
     
     Whenever SW2 is clicked:
     
-        -  Check if there are any used slots in the buffer.
-        -  If there are elements in use, remove the last element (the one that had been most recently added) and print its value. Then print the new contents of the buffer.
-        - Otherwise (no elements in use), print a message letting the user know that there is no elements in use.
+    -  Check if there are any used slots in the buffer.
+    -  If there are elements in use, remove the last element (the one that had been most recently added) and print its value. Then print the new contents of the buffer.
+    - Otherwise (no elements in use), print a message letting the user know that there is no elements in use.
      
 ## Assignment 4 (Grade UNKNOWN)
 
