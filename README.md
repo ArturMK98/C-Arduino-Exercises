@@ -71,4 +71,9 @@ My work from EE108R (Computing for Engineers)
     - Information about BarLED and on/off pattern is printed out to the serial monitor
 
 ## Lab 5 (Grade 90%)
+- [Lab5_BasicArrays](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%205/Lab5_BasicArray/Lab5_BasicArray.ino): Program that demonstrates declaring an array with initial values, iterating over an array to get the value of each element, and iterating over and array to set the value of each element.
+
+- [Lab5_ArraysAndFunctions](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%205/Lab5_ArraysAndFunctions/Lab5_ArraysAndFunctions.ino): Modified version of [Lab5_BasicArrays](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%205/Lab5_BasicArray/Lab5_BasicArray.ino) that works the same way but uses functions.
+
+## Lab 6 (Grade 50%)
 
