@@ -76,4 +76,10 @@ My work from EE108R (Computing for Engineers)
 - [Lab5_ArraysAndFunctions](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%205/Lab5_ArraysAndFunctions/Lab5_ArraysAndFunctions.ino): Modified version of [Lab5_BasicArrays](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%205/Lab5_BasicArray/Lab5_BasicArray.ino) that works the same way but uses functions.
 
 ## Lab 6 (Grade 50%)
+- [Lab6_RectOutputParams](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%206/Lab6_RectOutputParams/Lab6_RectOutputParams.ino): A program that demonstrates the use of the address of operator and the dereference operator by using a function that calculates the area and perimeter of a rectangle given its length and width.
+
+- [Lab6_AnalogInoutAndFifo](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%206/Lab6_AnalogInoutAndFifo/Lab6_AnalogInoutAndFifo.ino): A program that uses an array as a first-in-first-out (FIFO) buffer.
+
+## Lab 7 (Grade 
+
 
