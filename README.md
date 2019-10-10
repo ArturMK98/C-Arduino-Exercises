@@ -18,6 +18,7 @@ My work from EE108R (Computing for Engineers)
 
 ## Assignment 3 (Grade 95%)
 - [A3_ClickArrays](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%203/A3_ClickArrays/A3_ClickArrays.ino): The program has 2 arrays and will operate as follows. Whenever SW1 is normally clicked the two arrays will be printed. When SW1 is long-clicked, array1 will be updated with random values. Whenever SW1 is very-long-clicked, array1 will be updated with zeros. Finally, whenever SW1 is double-clicked, the contents of array1 will be copied into array2. The contents of both arrays must be printed after any of the above changes takes place.
+
 Click guidelines: 
     - Normal click: Pressed for less than 1 second.
     - Long click: Pressed for 1-3 seconds.
@@ -25,10 +26,12 @@ Click guidelines:
     - Double-click: Two complete clicks detected in less than 1 second.
  
 - [A3_LIFO](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%203/A3_LIFO/A3_LIFO.ino): A program that implements a last-in-first-out buffer (using an array) and uses this  to dynamically add and later remove values from the end of the array.
+
 When SW1 is clicked:
     - Check if there are unused slots in the buffer
     - If there is space, generate a random number (any integer between 0 and +99 inclusive) and add it to the end of the buffer. Then print the new contents of the buffer. 
     - Otherwise (no space in the buffer), prints a message letting the user know that there is no space.
+    
 Whenever SW2 is clicked:
      -  Check if there are any used slots in the buffer.
      -  If there are elements in use, remove the last element (the one that had been most recently added) and print its value. Then print the new contents of the buffer.
