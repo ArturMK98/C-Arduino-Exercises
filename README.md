@@ -53,4 +53,14 @@ My work from EE108R (Computing for Engineers)
 - [Lab2_3_CascadedIf](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%202/Lab2_3_CascadedIf/Lab2_3_CascadedIf.ino): A program that increments a counter once per loop and lights a particular pattern of LED1 and LED2 according to the counter value.
 
 ## Lab 3 (Grade 90%)
+- [Lab3_BarLedScan_1](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_1/Lab3_BarLedScan_1.ino): A program that prompts the user to click SW1, waits until SW1 is clicked, once clicked blinks BAR_LED_1 10 times and prints placeholder text to the serial monitor.
+
+- [Lab3_BarLedScan_2](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_2/Lab3_BarLedScan_2.ino): Modified version of [Lab3_BarLedScan_1](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_1/Lab3_BarLedScan_1.ino) which skips to the next iteration if SW2 is pressed.
+
+- [Lab3_BarLedScan_3](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_3/Lab3_BarLedScan_3.ino): Modified version of [Lab3_BarLedScan_2](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_2/Lab3_BarLedScan_2.ino) which replaces the placeholder text with a nested loop that scans over all the bar LEDs from 2 to 10 blinking each one on and off in succession (on for 100ms and off for 50ms).
+
+- [Lab3_BarLedScan_4](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_4/Lab3_BarLedScan_4.ino): Modified version of [Lab3_BarLedScan_3](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_3/Lab3_BarLedScan_3.ino) that lets the user stop the bar LED scans immediately when the user presses SW1 in any way.
+
+## Lab 4 (Grade 80%)
+
 
