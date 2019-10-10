@@ -5,9 +5,9 @@ Below is a list of all the Assignments, Labs and Lab Tests:
 
 ## Assignment 1 (Grade UNKNOWN)
 - [A1_BitsToBarLeds](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%201/A1_BitsToBarLeds/A1_BitsToBarLeds.ino): Each time the loop function runs the program executes the following steps:
-    - Light Bar LEDs 1 and 2 only for 300ms and print the binary ledStates value that corresponds to these LEDs.
+    - Light Bar LEDs 1 and 2 only for 300ms and print the binary led states value that corresponds to these LEDs.
     - Light Bar LEDs 3, 5, and 7 only for 600ms and print the binary ledStates value that corresponds to these LEDs.
-    - Blink Bar LEDs 9 and 10 on and off twice, on for 50 ms, off for 250 ms and print the binary ledStates value that corresponds to these LEDs.
+    - Blink Bar LEDs 9 and 10 on and off twice, on for 50 ms, off for 250 ms and print the binary led states value that corresponds to these LEDs.
     - Choose a random set of Bar LEDs (different each time the loop function runs), and blink those LEDs on and off 5 times, on for 10 ms, off for 140 ms. Print the binary ledStates value that corresponds to these LEDs.
     - Outputs each execution of the loop function giving information about the LED states.
 
