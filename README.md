@@ -83,10 +83,7 @@ My work from EE108R (Computing for Engineers)
 ## Lab 7 (Grade 70%)
 - [Lab7_BasicArrayPointers](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%207/Lab7_BasicArrayPointers/Lab7_BasicArrayPointers.ino): A program that demonstrates the use of pointer arithmetic by iterating through an array and printing out values.
 
-- [Lab7_UpdateArrayPointerArithmetic](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%207/Lab7_UpdateArrayPointerArithmetic/Lab7_UpdateArrayPointerArithmetic.ino): A program that demonstrates the use of pointer arithmetic by modifying elements in an array.
-
-Whenever SW1 is clicked:
-
+- [Lab7_UpdateArrayPointerArithmetic](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%207/Lab7_UpdateArrayPointerArithmetic/Lab7_UpdateArrayPointerArithmetic.ino): A program that demonstrates the use of pointer arithmetic by modifying elements in an array. Whenever SW1 is clicked, the program does the following: 
    - Chooses a random position between 0 and length of array minus 2 and print this value.
    - Call updateElement to modify the array at that position.
    - Prints the updated array contents
