@@ -95,3 +95,6 @@ My work from EE108R (Computing for Engineers)
 
 ## Lab Test 1 (Grade 90%)
 - [LT1_BinaryInspector](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%20Test%201/LT1_BinaryInspector/LT1_BinaryInspector.ino): A program that represent 10 bit numbers using the bar LEDs on the Arduino board. 
+
+## Other Files
+The [EE108](https://github.com/ArturMK98/C-Arduino-Exercises/tree/master/_EE108) folder contains files required for all the exercises to work.
