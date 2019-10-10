@@ -93,4 +93,5 @@ My work from EE108R (Computing for Engineers)
 
 - [Lab8_PasswordGen](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%208/Lab8_PasswordGen/Lab8_PasswordGen.ino): A password generator program that can create a new random alphabetic word whenever a button is long-clicked and save it as the current password. Whenever the button is normally clicked the programme will print the current password without changing it.
 
-## Lab Test 1 (Grade )
+## Lab Test 1 (Grade 90%)
+- [LT1_BinaryInspector](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%20Test%201/LT1_BinaryInspector/LT1_BinaryInspector.ino): A program that represent 10 bit numbers using the bar LEDs on the Arduino board. 
