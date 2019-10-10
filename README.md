@@ -89,5 +89,8 @@ My work from EE108R (Computing for Engineers)
    - Prints the updated array contents
 
 ## Lab 8 (Grade 90%)
+- [Lab8_StructLineSlope](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%208/Lab8_StructLineSlope/Lab8_StructLineSlope.ino): A program that demonstrates the use of structure variables and accessing structure fields by calculating the slope of a line given two points x and y.
 
+- [Lab8_PasswordGen](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%208/Lab8_PasswordGen/Lab8_PasswordGen.ino): A password generator program that can create a new random alphabetic word whenever a button is long-clicked and save it as the current password. Whenever the button is normally clicked the programme will print the current password without changing it.
 
+## Lab Test 1 (Grade )
