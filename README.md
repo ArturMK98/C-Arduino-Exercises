@@ -1,5 +1,5 @@
 # C Arduino Exercises (Update README)
-This repository contains some of my work from EE108R (Computing for Engineers). Each of the labs, assignments and lab tests were completed using an Arduino UNO daughterboard and the Arduino IDE. All the work was done by me and sometimes with the help of demonstrators in the lab sessions. I also used online resources to help me with some of the exercises, mainly [stackoverflow.com](stackoverflow.com) and [tutorialspoint.com](https://www.tutorialspoint.com/cprogramming/index.htm).
+This repository contains some of my work from [EE108R](https://maynoothuniversity-my.sharepoint.com/:w:/g/personal/ann_dempsey_mu_ie/Eb65wkVxIYJKpBRAvqxKnxsBHvs8487p2m6Vf8zv4-d9-w?rtime=Gl2XpXxN10g) (Computing for Engineers). Each of the labs, assignments and lab tests were completed using an Arduino UNO daughterboard and the Arduino IDE. All the work was done by me and sometimes with the help of demonstrators in the lab sessions. I also used online resources to help me with some of the exercises, mainly [stackoverflow.com](stackoverflow.com) and [tutorialspoint.com](https://www.tutorialspoint.com/cprogramming/index.htm).
 
 Below is a list of all the Assignments, Labs and Lab Tests:
 
