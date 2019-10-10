@@ -46,3 +46,11 @@ My work from EE108R (Computing for Engineers)
 - [Question 4](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%201/Question4/Question4.ino): A program that prints the time in milliseconds (since the Arduino board was last reset) and the value of a global, static, and local variable to serial output, once every 2 seconds.
 
 ## Lab 2 (Grade 70%)
+- [Lab2_1_NestedIf](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%202/Lab2_1_NestedIf/Lab2_1_NestedIf.ino): A program that loops every 100 ms checking SW1 and then lights LED1 or LED2 depending on how long SW1 has been pressed.
+
+- [Lab2_2_WrapTutorial](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%202/Lab2_2_WrapTutorial/Lab2_2_WrapTutorial.ino): A program which wraps or resets a couter at a specified value.
+
+- [Lab2_3_CascadedIf](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%202/Lab2_3_CascadedIf/Lab2_3_CascadedIf.ino): A program that increments a counter once per loop and lights a particular pattern of LED1 and LED2 according to the counter value.
+
+## Lab 3 (Grade 90%)
+
