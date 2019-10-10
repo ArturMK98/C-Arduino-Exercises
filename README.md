@@ -62,5 +62,13 @@ My work from EE108R (Computing for Engineers)
 - [Lab3_BarLedScan_4](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_4/Lab3_BarLedScan_4.ino): Modified version of [Lab3_BarLedScan_3](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%203/Lab3_BarLedScan_3/Lab3_BarLedScan_3.ino) that lets the user stop the bar LED scans immediately when the user presses SW1 in any way.
 
 ## Lab 4 (Grade 80%)
+- [Lab4_PureFunctions](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%204/Lab4_PureFunctions/Lab4_PureFunctions.ino): A program that generates 4 random integers, p, q, r, and s, each between 0 and 100, prints each one, calculates the absolute difference between p & q as well as r & s and prints the result to the serial monitor.
 
+- [Lab4_BlinkFunctions](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Lab%204/Lab4_BlinkFunction/Lab4_BlinkFunction.ino): Each time the main loop executes in this program:
+    - BarLED1 blinks once using a long pattern (1200ms on, 600ms off)
+    - BarLED8 blinks three times using a short pattern (100ms on, 500ms off)
+    - BarLED4 blinks twice using a medium pattern (500ms on, 700ms off) 
+    - Information about BarLED and on/off pattern is printed out to the serial monitor
+
+## Lab 5 (Grade 90%)
 
