@@ -16,7 +16,25 @@ My work from EE108R (Computing for Engineers)
 
 - [A2_SevenSegmentAnimation](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%202/A2_SevenSegmentAnimation/A2_SevenSegmentAnimation.ino)(Extra credit question): A program that uses an array lookup table to create a simple [animation](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%202/MOV_1004.mp4) using the 7 segment display showing each pattern for approximately 150ms.
 
-## Assignment 3
+## Assignment 3 (Grade 95%)
+- [A3_ClickArrays](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%203/A3_ClickArrays/A3_ClickArrays.ino): The program has 2 arrays and will operate as follows. Whenever SW1 is normally clicked the two arrays will be printed. When SW1 is long-clicked, array1 will be updated with random values. Whenever SW1 is very-long-clicked, array1 will be updated with zeros. Finally, whenever SW1 is double-clicked, the contents of array1 will be copied into array2. The contents of both arrays must be printed after any of the above changes takes place.
+Click guidelines: 
+    - Normal click: Pressed for less than 1 second.
+    - Long click: Pressed for 1-3 seconds.
+    - Very long click: Pressed for more than 3 seconds.
+    - Double-click: Two complete clicks detected in less than 1 second.
+ 
+- [A3_LIFO](https://github.com/ArturMK98/C-Arduino-Exercises/blob/master/Assignment%203/A3_LIFO/A3_LIFO.ino): A program that implements a last-in-first-out buffer (using an array) and uses this  to dynamically add and later remove values from the end of the array.
+When SW1 is clicked:
+    - Check if there are unused slots in the buffer
+    - If there is space, generate a random number (any integer between 0 and +99 inclusive) and add it to the end of the buffer. Then print the new contents of the buffer. 
+    - Otherwise (no space in the buffer), prints a message letting the user know that there is no space.
+Whenever SW2 is clicked:
+     -  Check if there are any used slots in the buffer.
+     -  If there are elements in use, remove the last element (the one that had been most recently added) and print its value. Then print the new contents of the buffer.
+     - Otherwise (no elements in use), print a message letting the user know that there is no elements in use.
+     
+## Assignment 4 (Grade UNKNOWN)
 
 
 ## Lab 1 (Grade 90%)
